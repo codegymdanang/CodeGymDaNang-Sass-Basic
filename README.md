@@ -15,3 +15,6 @@ http://compass-style.org/install/
 https://blog.gaya.ninja/articles/how-to-start-using-sass-and-compass-in-10-minutes/
 
 :~/Documents/sassbasic/assets/compass$ compass watch
+
+Install sass for mac
+sudo gem install -n /usr/local/bin GEM_NAME_HERE
